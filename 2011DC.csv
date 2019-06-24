@@ -1,0 +1,916 @@
+﻿Constituency Code,Constituency,選區,Candidate Number,Name of Candidate,候選人姓名,No. of Votes Received,Result
+A01,Chung Wan,中環,1,WAI PUI SHUEN,衛珮璇,800,0
+A01,Chung Wan,中環,2,HUI CHI FUNG,許智峯,951,1
+A01,Chung Wan,中環,3,SO HO,蘇浩,96,0
+A02,Mid Levels East,半山東,1,CHEUNG YICK HUNG JACKIE,張翼雄,1432,1
+A02,Mid Levels East,半山東,2,CHAN PUI YI,陳佩怡,108,0
+A02,Mid Levels East,半山東,3,TANG WAI CHUNG WILHEIM,鄧偉中,927,0
+A03,Castle Road,衛城,1,PAK FU HUNG,白富鴻,881,0
+A03,Castle Road,衛城,2,CHENG LAI KING,鄭麗琼,1291,1
+A04,Peak,山頂,1,CHAN TANYA,陳淑莊,820,0
+A04,Peak,山頂,2,CHAN HO LIM JOSEPH,陳浩濂,1505,1
+A05,University,大學,1,CHAN CHIT KWAI,陳捷貴,2169,1
+A05,University,大學,2,TSUI KIT SANG,徐傑生,530,0
+A06,Kennedy Town & Mount Davis,堅摩,1,CHAN HOK FUNG,陳學鋒,1721,1
+A06,Kennedy Town & Mount Davis,堅摩,2,NG HOI YAN BONNIE,伍凱欣,1468,0
+A07,Kwun Lung,觀龍,1,IP KWOK HIM,葉國謙,2723,1
+A07,Kwun Lung,觀龍,2,LEUNG KWOK HUNG,梁國雄,973,0
+A08,Sai Wan,西環,1,CHONG WING FAI WINFIELD,莊榮輝,1631,0
+A08,Sai Wan,西環,2,CHEUNG KWOK KWAN,張國鈞,1655,1
+A09,Belcher,寶翠,1,LAM WAI WING MALCOLM,林懷榮,1968,1
+A09,Belcher,寶翠,2,WONG KA LOK WILLIAM,黃家樂,201,0
+A09,Belcher,寶翠,3,YEUNG SUI YIN,楊浩然,1935,0
+A10,Shek Tong Tsui,石塘咀,1,CHING MING TAT,程明達,705,0
+A10,Shek Tong Tsui,石塘咀,2,CHAN CHOI HI,陳財喜,1871,1
+A11,Sai Ying Pun,西營盤,1,YUEN MAN HO,袁文浩,189,0
+A11,Sai Ying Pun,西營盤,2,LO YEE HANG,盧懿杏,1875,1
+A11,Sai Ying Pun,西營盤,3,YONG CHAK CHEONG,容澤昌,711,0
+A12,Sheung Wan,上環,1,YIM TAT MING,嚴達明,270,0
+A12,Sheung Wan,上環,2,CHAN YIN HO,陳賢豪,910,0
+A12,Sheung Wan,上環,3,KAM NAI WAI,甘乃威,1450,1
+A13,Tung Wah,東華,1,HO CHUN KI FREDERICK,何俊麒,907,0
+A13,Tung Wah,東華,2,LEE SIU CHEONG,李肇昌,125,0
+A13,Tung Wah,東華,3,SIU KA YI,蕭嘉怡,1168,1
+A14,Centre Street,正街,1,WONG HO YIN,王浩賢,1199,0
+A14,Centre Street,正街,2,LEE CHI HANG SIDNEY,李志恒,1739,1
+A15,Water Street,水街,1,YEUNG HOK MING,楊學明,1241,0
+A15,Water Street,水街,2,WONG KIN SHING,黃堅成,1353,1
+A15,Water Street,水街,3,TAI CHEUK YIN LESLIE SPENCER,戴卓賢,463,0
+B01,Hennessy,軒尼詩,1,WONG KIT NING CATHERINE,王潔玲,187,0
+B01,Hennessy,軒尼詩,2,CHENG KI KIN,鄭其建,1625,1
+B02,Oi Kwan,愛群,1,LI KIN YIN,李建賢,730,0
+B02,Oi Kwan,愛群,2,TANG KING YUNG ANNA,鄭琴淵,1552,1
+B03,Canal Road,鵝頸,,CHUNG KA MAN JACQUELINE,鍾嘉敏,0,2
+B04,Causeway Bay,銅鑼灣,1,FONG YIK LAM,方奕霖,369,0
+B04,Causeway Bay,銅鑼灣,2,KONG KWOK CHU,鄺國柱,80,0
+B04,Causeway Bay,銅鑼灣,3,NG YUEN TING YOLANDA,伍婉婷,1350,1
+B05,Tai Hang,大坑,1,SHUM SEE HOI RICHARD,沈四海,43,0
+B05,Tai Hang,大坑,2,WONG CHOR FUNG,黃楚峰,1266,1
+B05,Tai Hang,大坑,3,LAU GAR HUNG CHRISTOPHER,劉嘉鴻,141,0
+B05,Tai Hang,大坑,4,SIN CHUNG KAI,單仲偕,965,0
+B06,Jardine's Lookout,渣甸山,1,LAI DAVID,黎大偉,992,1
+B06,Jardine's Lookout,渣甸山,2,LEE CHAK MAN,李澤民,264,0
+B06,Jardine's Lookout,渣甸山,3,LEE IAN EON,李怡安,626,0
+B07,Broadwood,樂活,1,PECK WAN KAM PAMELA,白韻琹,1262,1
+B07,Broadwood,樂活,2,MAK KWOK FUNG MICHAEL,麥國風,742,0
+B08,Happy Valley,跑馬地,1,NG KAM CHUN,吳錦津,1422,1
+B08,Happy Valley,跑馬地,2,TSANG KIN CHIU,曾健超,748,0
+B09,Stubbs Road,司徒拔道,1,WONG WANG TAI,黃宏泰,1068,1
+B09,Stubbs Road,司徒拔道,2,NG YIN KEUNG,吳彥強,524,0
+B10,Southorn,修頓,1,CHUNG CHOR KIT,莊初傑,324,0
+B10,Southorn,修頓,2,LEE PIK YEE,李碧儀,1604,1
+B11,Tai Fat Hau,大佛口,1,LEE KWUN YEE KENNY,李均頤,1765,1
+B11,Tai Fat Hau,大佛口,2,LO KIN MING,盧健明,610,0
+C01,Tai Koo Shing West,太古城西,1,ANG KAI TENG,洪啟騰,1491,0
+C01,Tai Koo Shing West,太古城西,2,CHIU KA YIN ANDREW,趙家賢,2529,1
+C02,Tai Koo Shing East,太古城東,1,TSE TSZ KEI,謝子祺,2270,1
+C02,Tai Koo Shing East,太古城東,2,TSO HON KWONG,曹漢光,1625,0
+C03,Lei King Wan,鯉景灣,1,YIM KA WING,嚴家榮,1299,0
+C03,Lei King Wan,鯉景灣,2,FU YUEN CHEUNG ALEXANDER,傅元章,1932,1
+C04,Aldrich Bay,愛秩序灣,,NGAN CHUN LIM,顏尊廉,0,2
+C05,Shaukeiwan,筲箕灣,1,LO TIP CHUN,勞鍱珍,1260,1
+C05,Shaukeiwan,筲箕灣,2,CHUNG SHEK YAN,鍾碩殷,1107,0
+C06,A Kung Ngam,阿公岩,1,TO BOON MAN DANIEL,杜本文,1692,1
+C06,A Kung Ngam,阿公岩,2,CHENG HING,鄭興,887,0
+C06,A Kung Ngam,阿公岩,3,LAM KEI TUNG GEORGE,林其東,1200,0
+C07,Heng Fa Chuen,杏花邨,1,HO NGAI KAM STANLEY,何毅淦,2577,1
+C07,Heng Fa Chuen,杏花邨,2,CHAN TIM SHING MANUEL,陳添勝,1925,0
+C08,Tsui Wan,翠灣,1,KU KWAI YIU,古桂耀,1926,0
+C08,Tsui Wan,翠灣,2,KWAN SHUI LUNG,關瑞龍,2336,1
+C09,Yan Lam,欣藍,1,WONG KIN HING,黃健興,3620,1
+C09,Yan Lam,欣藍,2,LEUNG CHUN KIN CUPID,梁俊健,508,0
+C10,Siu Sai Wan,小西灣,,CHAN OI KWAN,陳靄群,0,2
+C11,King Yee,景怡,1,YEUNG HON SING,楊漢成,1168,0
+C11,King Yee,景怡,2,LEUNG KWOK HUNG DAVID,梁國鴻,2140,1
+C11,King Yee,景怡,3,CHAN YIU TAK,陳耀德,1905,0
+C12,Wan Tsui,環翠,,KUNG PAK CHEUNG,龔栢祥,0,2
+C13,Fei Tsui,翡翠,1,LAI CHI KEONG JOSEPH,黎志強,2309,1
+C13,Fei Tsui,翡翠,2,CHAO SHING KIE,趙承基,1268,0
+C14,Mount Parker,柏架山,,WONG KIN PAN,黃建彬,0,2
+C15,Braemar Hill,寶馬山,,SHIU KA FAI,邵家輝,0,2
+C16,Tin Hau,天后,1,LEE MAN LUNG JOEY,李文龍,1995,1
+C16,Tin Hau,天后,2,CHAN KIN KWOK,陳建國,1079,0
+C17,Fortress Hill,炮台山,,LO WING KWAN FRANKIE,羅榮焜,0,2
+C18,Victoria Park,維園,,CHOW KIT BING JENNIFER,周潔冰,0,2
+C19,City Garden,城市花園,1,HUI CHING ON,許清安,2160,1
+C19,City Garden,城市花園,2,HUNG PAK CHEUNG,熊百祥,1030,0
+C20,Provident,和富,,KWOK WAI KEUNG,郭偉强,0,2
+C21,Fort Street,堡壘,,HUNG LIN CHAM,洪連杉,0,2
+C22,Kam Ping,錦屏,,CHOY SO YUK,蔡素玉,0,2
+C23,Tanner,丹拿,1,YIM FUNG CHI KAY,嚴鳳至,470,0
+C23,Tanner,丹拿,2,WONG SHING KWONG,黃成光,360,0
+C23,Tanner,丹拿,3,LEE YU TAI DESMOND,李汝大,1750,1
+C24,Healthy Village,健康村,,CHENG CHI SING,鄭志成,0,2
+C25,Quarry Bay,鰂魚涌,,TING KONG HO EDDIE,丁江浩,0,2
+C26,Nam Fung,南豐,1,NG LAI CHING,吳麗清,1515,0
+C26,Nam Fung,南豐,2,FOK WING YI,霍穎怡,174,0
+C26,Nam Fung,南豐,3,LEUNG SUK CHING,梁淑楨,1841,1
+C27,Kornhill,康怡,1,WONG KING,黃敬,1882,0
+C27,Kornhill,康怡,2,CHAN KAI YUEN,陳啟遠,2050,1
+C28,Kornhill Garden,康山,1,LEUNG SIU SUN,梁兆新,1350,1
+C28,Kornhill Garden,康山,2,LIU MEI LING RHODA,廖美玲,1295,0
+C28,Kornhill Garden,康山,3,HUNG HIN TIM,孔憲添,490,0
+C29,Hing Tung,興東,1,WONG YUET MUI,黃月梅,818,0
+C29,Hing Tung,興東,2,WONG TAK SHING,黃德成,1188,0
+C29,Hing Tung,興東,3,HUI LAM HING,許林慶,1775,1
+C29,Hing Tung,興東,4,HUNG CHI KIT,洪志傑,75,0
+C29,Hing Tung,興東,5,LAI PUI SANG,黎沛生,1099,0
+C30,Sai Wan Ho,西灣河,1,KONG CHACK HO,江澤濠,1826,1
+C30,Sai Wan Ho,西灣河,2,CHAN HIN CHUNG JOHN,陳顯中,1475,0
+C31,Lower Yiu Tung,下耀東,1,HUI KA HOO,許嘉灝,1370,1
+C31,Lower Yiu Tung,下耀東,2,NG KAM WAI,吳錦偉,1167,0
+C32,Upper Yiu Tung,上耀東,,CHIU CHI KEUNG,趙資強,0,2
+C33,Hing Man,興民,1,LAU HING YEUNG,劉慶揚,2539,1
+C33,Hing Man,興民,2,HO YAN WING,何慇榮,898,0
+C34,Lok Hong,樂康,1,LUI SIN YI,雷倩兒,32,0
+C34,Lok Hong,樂康,2,TSANG KIN SHING,曾健成,1871,0
+C34,Lok Hong,樂康,3,LI CHUN CHAU,李進秋,1916,1
+C35,Tsui Tak,翠德,1,LEE CHUN KEUNG,李鎮強,1355,1
+C35,Tsui Tak,翠德,2,LUI CHI MAN,呂志文,1088,0
+C36,Yue Wan,漁灣,,CHUNG SHU KUN CHRISTOPHER,鍾樹根,0,2
+C37,Kai Hiu,佳曉,1,NG MEI YUNG,吳美容,703,0
+C37,Kai Hiu,佳曉,2,LEUNG CHI WAI,梁志威,323,0
+C37,Kai Hiu,佳曉,3,LAM CHUI LIN,林翠蓮,1925,1
+C37,Kai Hiu,佳曉,4,LAU HAO KING JOSEPH,劉好景,455,0
+D01,Aberdeen,香港仔,,WONG LING SUN VINCENT,黃靈新,0,2
+D02,Ap Lei Chau Estate,鴨脷洲邨,,LAM YUK CHUN,林玉珍,0,2
+D03,Ap Lei Chau North,鴨脷洲北,1,CHEUNG WING HO,張永豪,841,0
+D03,Ap Lei Chau North,鴨脷洲北,2,CHEUNG SIK YUNG,張錫容,1527,1
+D04,Lei Tung I,利東一,1,AU NOK HIN,區諾軒,2148,1
+D04,Lei Tung I,利東一,2,CHAN FUNG WAH,陳封華,129,0
+D04,Lei Tung I,利東一,3,CHEUNG SIU KEUNG,張少強,2029,0
+D05,Lei Tung II,利東二,1,LO CHUNG MAN,盧中文,92,0
+D05,Lei Tung II,利東二,2,WONG CHE NGAI,黃志毅,1995,0
+D05,Lei Tung II,利東二,3,LO KIN HEI,羅健熙,2346,1
+D06,South Horizons East,海怡東,1,KWOK WING HANG,郭榮鏗,1161,0
+D06,South Horizons East,海怡東,2,LAM KAI FAI,林啟暉,2275,1
+D07,South Horizons West,海怡西,1,FUNG WAI KWONG,馮煒光,1906,1
+D07,South Horizons West,海怡西,2,LAM YUE YEUNG ANTHONY,林雨陽,182,0
+D07,South Horizons West,海怡西,3,SZE CHUN FAI,施俊輝,1894,0
+D07,South Horizons West,海怡西,4,KWAI SZE KIT,季詩傑,42,0
+D08,Wah Kwai,華貴,1,MAK TSE HOW LING ADA,麥謝巧玲,2611,1
+D08,Wah Kwai,華貴,2,YEUNG SIU PIK,楊小壁,2460,0
+D09,Wah Fu I,華富一,1,LI SHEE LIN,黎熙琳,1204,0
+D09,Wah Fu I,華富一,2,WONG WING LIT,黃榮烈,69,0
+D09,Wah Fu I,華富一,3,AU LAP SING,歐立成,1723,1
+D10,Wah Fu II,華富二,1,WONG CHOI LAP,黃才立,1811,0
+D10,Wah Fu II,華富二,2,CHAI MAN HON,柴文瀚,2234,1
+D11,Pokfulam,薄扶林,1,YIM KIN PING,嚴建平,805,0
+D11,Pokfulam,薄扶林,2,ZIMMERMAN PAULUS JOHANNES,司馬文,1445,1
+D12,Chi Fu,置富,,CHU CHING HONG,朱慶虹,0,2
+D13,Tin Wan,田灣,,CHAN FU MING,陳富明,0,2
+D14,Shek Yue,石漁,1,MAN HO KEUNG ZICO,文豪強,1380,0
+D14,Shek Yue,石漁,2,CHU LAP WAI,朱立威,3001,1
+D15,Wong Chuk Hang,黃竹坑,1,TSUI YUEN WA,徐遠華,2344,1
+D15,Wong Chuk Hang,黃竹坑,2,YUEN CHI KWONG,袁志光,1752,0
+D16,Bays Area,海灣,1,FUNG SE GOUN FERGUS,馮仕耕,970,1
+D16,Bays Area,海灣,2,LAI KWONG TAK ALBERT,黎廣德,309,0
+D17,Stanley & Shek O,赤柱及石澳,1,WONG KAM CHUEN,王錦泉,1547,0
+D17,Stanley & Shek O,赤柱及石澳,2,LEE PUI YING,李佩英,1689,1
+E01,Tsim Sha Tsui West,尖沙咀西,1,HUNG CHIU WAH,孔昭華,878,1
+E01,Tsim Sha Tsui West,尖沙咀西,2,YAM SIU WAI DAVID,任紹偉,410,0
+E02,Jordan East,佐敦東,1,CHAN KIN SHING ALEXIS,陳健成,552,0
+E02,Jordan East,佐敦東,2,LI KING WAH,李景華,137,0
+E02,Jordan East,佐敦東,3,HO KA KUEN SIMON,何家權,85,0
+E02,Jordan East,佐敦東,4,IP NGO TUNG CHRIS,葉傲冬,1504,1
+E03,Jordan West,佐敦西,1,CHAN SIU TONG,陳少棠,2063,1
+E03,Jordan West,佐敦西,2,LAM YI LAI,林依麗,333,0
+E03,Jordan West,佐敦西,3,LIMBU SARAN KUMAR,LIMBU SARAN KUMAR,447,0
+E04,Yau Ma Tei,油麻地,1,NG PO SHAN AUSTEN,吳寶珊,1506,0
+E04,Yau Ma Tei,油麻地,2,YEUNG TSZ HEI,楊子熙,2242,1
+E05,Charming,富榮,1,YEUNG KE CHEONG,楊繼昌,1137,0
+E05,Charming,富榮,2,CHUNG KONG MO,鍾港武,2401,1
+E06,Mong Kok West,旺角西,1,LAM CHUN SING,林振昇,221,0
+E06,Mong Kok West,旺角西,2,HUI TAK LEUNG,許德亮,2273,1
+E06,Mong Kok West,旺角西,3,FOO PUI MAN,扶沛文,137,0
+E07,Fu Pak,富柏,,CHAN WAI KEUNG,陳偉強,0,2
+E08,Olympic,奧運,1,CHU KING LEUNG ALARIC BAZANIO,朱景亮,101,0
+E08,Olympic,奧運,2,TO KUN SUN JAMES,涂謹申,1012,1
+E08,Olympic,奧運,3,LAU KAI KIT VINCENT,劉啟傑,886,0
+E09,Cherry,櫻桃,1,YAM WING KEUNG,任永強,127,0
+E09,Cherry,櫻桃,2,LAM HO YEUNG,林浩揚,784,0
+E09,Cherry,櫻桃,3,WONG CHUNG JOHN,黃頌,1281,1
+E10,Tai Kok Tsui South,大角咀南,1,LEE WAI FUNG,李偉峰,823,0
+E10,Tai Kok Tsui South,大角咀南,2,CHOI SIU FUNG BENJAMIN,蔡少峰,1543,1
+E10,Tai Kok Tsui South,大角咀南,3,TSANG CHUN YING,曾浚瑛,254,0
+E11,Tai Kok Tsui North,大角咀北,1,LAU PAK KEI,劉柏祺,1701,1
+E11,Tai Kok Tsui North,大角咀北,2,POON CHUK HUNG,潘焯鴻,485,0
+E11,Tai Kok Tsui North,大角咀北,3,CHUN FEI PANG,秦飛鵬,66,0
+E11,Tai Kok Tsui North,大角咀北,4,WONG KA YING,王嘉盈,610,0
+E12,Tai Nan,大南,1,TAM KAM LIN,譚金蓮,484,0
+E12,Tai Nan,大南,2,NG MAN YUEN AVERY,吳文遠,413,0
+E12,Tai Nan,大南,3,CHONG WING CHARN FRANCIS,莊永燦,1076,1
+E12,Tai Nan,大南,4,CHAN MAN YU HENRY,陳文佑,905,0
+E13,Mong Kok North,旺角北,1,IP SHU ON,葉樹安,597,0
+E13,Mong Kok North,旺角北,2,WONG SHU MING ROWENA,黃舒明,1537,1
+E14,Mong Kok East,旺角東,1,LAU CHUN YIP,劉俊業,880,0
+E14,Mong Kok East,旺角東,2,YUEN CHIU TAT,阮昭達,214,0
+E14,Mong Kok East,旺角東,3,LUNG WAI MAN JAMES,龍緯汶,22,0
+E14,Mong Kok East,旺角東,4,WONG KIN SAN,黃建新,1110,1
+E15,Mong Kok South,旺角南,1,YUEN HOI MAN,袁海文,608,0
+E15,Mong Kok South,旺角南,2,CHOW CHUN FAI,仇振輝,1610,1
+E16,King's Park,京士柏,1,WONG BIU,黃標,118,0
+E16,King's Park,京士柏,2,LAM KIN MAN,林健文,1043,0
+E16,King's Park,京士柏,3,LEE KWOK KEUNG,李國強,165,0
+E16,King's Park,京士柏,4,LEUNG WAI KUEN EDWARD,梁偉權,1045,1
+E16,King's Park,京士柏,5,WONG SHU KAU,王樹球,178,0
+E17,Tsim Sha Tsui East,尖沙咀東,1,HATHIRAMANI HIRO KISHINCHAND,HATHIRAMANI HIRO KISHINCHAND,155,0
+E17,Tsim Sha Tsui East,尖沙咀東,2,KWAN SAU LING,關秀玲,1037,1
+E17,Tsim Sha Tsui East,尖沙咀東,3,AHUJA MONESH GOPALDAS,AHUJA MONESH GOPALDAS,492,0
+E17,Tsim Sha Tsui East,尖沙咀東,4,LIU SIU FAI,廖少輝,278,0
+E17,Tsim Sha Tsui East,尖沙咀東,5,SINGH HARMINDER,SINGH HARMINDER,251,0
+F01,Po Lai,寶麗,1,LAU TIT WAI,劉鐵煒,187,0
+F01,Po Lai,寶麗,2,LEUNG YAU FONG,梁有方,1048,1
+F01,Po Lai,寶麗,3,SO CHUN MAN,蘇俊文,883,0
+F02,Cheung Sha Wan,長沙灣,,LAM KA FAI AARON,林家輝,0,2
+F03,Nam Cheong North,南昌北,1,LO WAI YIN,盧蔚然,276,0
+F03,Nam Cheong North,南昌北,2,LEUNG LAI,梁欐,1133,0
+F03,Nam Cheong North,南昌北,3,CHENG WING SHUN VINCENT,鄭泳舜,1485,1
+F04,Shek Kip Mei & Nam Cheong East,石硤尾及南昌東,1,TSANG TING HIN,曾廷軒,463,0
+F04,Shek Kip Mei & Nam Cheong East,石硤尾及南昌東,2,TSUNG PO SHAN,秦寶山,1729,1
+F04,Shek Kip Mei & Nam Cheong East,石硤尾及南昌東,3,LAW KAM YAU,羅錦有,782,0
+F05,Nam Cheong South,南昌南,1,LEE WING MAN,李詠民,1375,1
+F05,Nam Cheong South,南昌南,2,FONG KA KEUNG GORDON,方鏗強,531,0
+F06,Nam Cheong Central,南昌中,1,MAK WAI MING,麥偉明,519,0
+F06,Nam Cheong Central,南昌中,2,LAU PUI YUK,劉佩玉,1569,1
+F07,Nam Cheong West,南昌西,1,CHAN KIN MAN,陳建民,797,0
+F07,Nam Cheong West,南昌西,2,WAI WOON NAM,衞煥南,1629,1
+F08,Fu Cheong,富昌,1,LAI WAI LAN TRACY,黎慧蘭,1799,0
+F08,Fu Cheong,富昌,2,IP CHEE TAK,葉智德,191,0
+F08,Fu Cheong,富昌,3,LEUNG MAN KWONG,梁文廣,2235,1
+F09,Lai Kok,麗閣,1,FUNG KIN KEE FREDERICK,馮檢基,2528,1
+F09,Lai Kok,麗閣,2,CHIU CHIK TUNG,趙植東,239,0
+F09,Lai Kok,麗閣,3,CHUNG WING YUEN,鍾詠淵,75,0
+F09,Lai Kok,麗閣,4,FAN KWOK FAI,范國輝,2015,0
+F10,Fortune,幸福,1,LEUNG MING YIN,梁銘言,1092,0
+F10,Fortune,幸福,2,CHUM TAK SHING,覃德誠,2183,1
+F11,Lai Chi Kok South,荔枝角南,1,LEUNG UN SHING,梁宴誠,968,0
+F11,Lai Chi Kok South,荔枝角南,2,WONG CHI YUNG,黃志勇,3507,1
+F12,Mei Foo South,美孚南,1,WONG TAT TUNG,黃達東,1987,1
+F12,Mei Foo South,美孚南,2,CHAN KIN CHUN KEN,陳健浚,159,0
+F12,Mei Foo South,美孚南,3,WONG TAK CHUEN JOE,王德全,1908,0
+F13,Mei Foo Central,美孚中,1,NG YUET LAN,伍月蘭,899,0
+F13,Mei Foo Central,美孚中,2,TZENG LI WEN JUDY,曾麗文,476,0
+F13,Mei Foo Central,美孚中,3,SHUM SIU HUNG,沈少雄,1812,1
+F14,Mei Foo North,美孚北,1,KEUNG CHUNG YIN ALPHA,姜頌賢,950,0
+F14,Mei Foo North,美孚北,2,CHEUNG WING SUM AMBROSE,張永森,2204,1
+F15,Lai Chi Kok North,荔枝角北,1,LAI CHI LEUNG,黎志良,300,0
+F15,Lai Chi Kok North,荔枝角北,2,TAM SAI KIT,譚世傑,174,0
+F15,Lai Chi Kok North,荔枝角北,3,LI KI FUNG BRUCE,李祺逢,1312,1
+F15,Lai Chi Kok North,荔枝角北,4,LEUNG CHIU HUNG,梁昭鴻,334,0
+F15,Lai Chi Kok North,荔枝角北,5,WONG LEUNG HI,黃良喜,985,0
+F16,Un Chau & So Uk,元州及蘇屋,1,TANG MEI CHING,鄧美晶,493,0
+F16,Un Chau & So Uk,元州及蘇屋,2,SZE TAK LOY,施德來,1947,0
+F16,Un Chau & So Uk,元州及蘇屋,3,CHAN WAI MING,陳偉明,3403,1
+F17,Lei Cheng Uk,李鄭屋,1,CHIN WAI LOK,錢偉洛,686,0
+F17,Lei Cheng Uk,李鄭屋,2,KONG KWAI SANG,江貴生,1108,0
+F17,Lei Cheng Uk,李鄭屋,3,CHAN KENG CHAU,陳鏡秋,2436,1
+F18,Ha Pak Tin,下白田,1,YEUNG YUK,楊彧,1119,0
+F18,Ha Pak Tin,下白田,2,YAN KAI WING,甄啟榮,2888,1
+F19,Yau Yat Tsuen,又一村,1,LEE KIN KAN,李健勤,555,0
+F19,Yau Yat Tsuen,又一村,2,KWOK CHUN WAH,郭振華,1451,1
+F20,"Nam Shan, Tai Hang Tung & Tai Hang Sai",南山、大坑東及 大坑西,1,LUI MAN FUNG LOUIS,雷文鋒,259,0
+F20,"Nam Shan, Tai Hang Tung & Tai Hang Sai",南山、大坑東及 大坑西,2,WAI HOI YING,韋海英,2291,1
+F20,"Nam Shan, Tai Hang Tung & Tai Hang Sai",南山、大坑東及 大坑西,3,TAM KWOK KIU,譚國僑,2098,0
+F21,Lung Ping & Sheung Pak Tin,龍坪及上白田,1,NG MEI CARMAN,吳美,2120,1
+F21,Lung Ping & Sheung Pak Tin,龍坪及上白田,2,CHAN KIN YIP,陳建業,687,0
+F21,Lung Ping & Sheung Pak Tin,龍坪及上白田,3,CHEUNG PUN CHIU,張本釗,644,0
+G01,Ma Tau Wai,馬頭圍,1,MOK KA HAN ROSANDA,莫嘉嫻,2585,1
+G01,Ma Tau Wai,馬頭圍,2,LAM SUM LIM,林心亷,1773,0
+G02,Ma Hang Chung,馬坑涌,1,YU CHUNG YIN,余仲賢,1156,0
+G02,Ma Hang Chung,馬坑涌,2,YAU LAU CHUN,邱劉珍,114,0
+G02,Ma Hang Chung,馬坑涌,3,WONG YUN CHEONG,黃潤昌,1416,1
+G03,Ma Tau Kok,馬頭角,1,LI LIN,李蓮,1985,1
+G03,Ma Tau Kok,馬頭角,2,LEUNG KOON WAH,梁冠華,486,0
+G04,Lok Man,樂民,,YANG WING KIT,楊永杰,0,2
+G05,Sheung Lok,常樂,1,LUK KING KWONG,陸勁光,2820,1
+G05,Sheung Lok,常樂,2,WONG WING KIT,黃永傑,1368,0
+G06,Ho Man Tin,何文田,1,CHENG LEE MING,鄭利明,1872,1
+G06,Ho Man Tin,何文田,2,NG CHING MAN,伍精民,1629,0
+G07,Kadoorie,嘉道理,1,TSANG WAI HIN,曾偉軒,140,0
+G07,Kadoorie,嘉道理,2,SIU LEONG SING,蕭亮聲,1632,1
+G07,Kadoorie,嘉道理,3,CHAN KING WONG,陳景煌,1583,0
+G08,Prince,太子,1,WONG YEE HIM,黃以謙,1554,1
+G08,Prince,太子,2,TANG CHI YING,鄧志盈,604,0
+G09,Kowloon Tong,九龍塘,,HO HIN MING,何顯明,0,2
+G10,Lung Shing,龍城,1,NG PO KEUNG,吳寶強,2335,1
+G10,Lung Shing,龍城,2,CHAU TSUN KIU,周峻翹,437,0
+G11,Kai Tak,啓德,1,YEUNG CHUN YU,楊振宇,1427,1
+G11,Kai Tak,啓德,2,IP CHI WAI ALEXANDER,葉志偉,636,0
+G11,Kai Tak,啓德,3,CHEUNG FAN LAN,張芬蘭,625,0
+G11,Kai Tak,啓德,4,LEE HON SAM,李漢森,190,0
+G12,Hoi Sham,海心,1,TOWN MAN HOI EDWIN,湯文海,731,0
+G12,Hoi Sham,海心,2,PUN KWOK WAH,潘國華,2613,1
+G13,To Kwa Wan North,土瓜灣北,1,LEE WAI KING STARRY,李慧琼,1534,1
+G13,To Kwa Wan North,土瓜灣北,2,WONG TZE HEI CODY,黃子希,322,0
+G14,To Kwa Wan South,土瓜灣南,1,PUN CHI MAN,潘志文,1476,1
+G14,To Kwa Wan South,土瓜灣南,2,NG YUEN TAT,吳炫達,1296,0
+G15,Hok Yuen Laguna Verde,鶴園海逸,1,SIU YUEN SHEUNG,蕭婉嫦,1665,1
+G15,Hok Yuen Laguna Verde,鶴園海逸,2,IP KWAN HO,葉鈞浩,855,0
+G16,Whampoa East,黃埔東,1,LEUNG MEI FUN,梁美芬,2236,1
+G16,Whampoa East,黃埔東,2,WONG PIK WAN,黃碧雲,1513,0
+G16,Whampoa East,黃埔東,3,AU YEUNG YING KIT JEFF,歐陽英傑,371,0
+G17,Whampoa West,黃埔西,1,LAU WAI WING,劉偉榮,1710,1
+G17,Whampoa West,黃埔西,2,LO CHUN KIT,盧俊傑,958,0
+G18,Hung Hom Bay,紅磡灣,1,CHEUNG YAN HONG,張仁康,1994,1
+G18,Hung Hom Bay,紅磡灣,2,FOO WAI LOK,符偉樂,640,0
+G19,Hung Hom,紅磡,1,WONG CHI KEUNG,黃志強,48,0
+G19,Hung Hom,紅磡,2,CHAN CHUNG CHEUNG,陳仲翔,858,0
+G19,Hung Hom,紅磡,3,YUM KWOK TUNG PIUS,任國棟,1360,1
+G20,Ka Wai,家維,1,TSANG CHIU WAI,曾昭偉,701,0
+G20,Ka Wai,家維,2,LEE CHI CHING,李咨呈,256,0
+G20,Ka Wai,家維,3,LO CHIU KIT,勞超傑,2650,1
+G21,Oi Man,愛民,1,CHAN LAI KWAN,陳麗君,1726,0
+G21,Oi Man,愛民,2,NG FAN KAM,吳奮金,2821,1
+G22,Oi Chun,愛俊,1,CHO WUI HUNG,左滙雄,2835,1
+G22,Oi Chun,愛俊,2,CHAN YAU CHEONG,陳友昌,1643,0
+G22,Oi Chun,愛俊,3,CHAN YIN LING,陳燕玲,70,0
+H01,Lung Tsui,龍趣,,WONG KAM CHI,黃金池,0,2
+H02,Lung Ha,龍下,1,LEE TUNG KONG,李東江,1300,0
+H02,Lung Ha,龍下,2,KWOK SAU YING,郭秀英,2870,1
+H03,Lung Sheung,龍上,1,CHAN YUEN HAN,陳婉嫻,3456,1
+H03,Lung Sheung,龍上,2,LAM WAI KEI,林偉基,1039,0
+H03,Lung Sheung,龍上,3,YUM EDWARD LIANG HSIEN,任亮憲,441,0
+H04,Fung Wong,鳳凰,1,CHEUNG CHI WANG JOEY,張志宏,803,0
+H04,Fung Wong,鳳凰,2,WONG HIN WAI,黃軒瑋,309,0
+H04,Fung Wong,鳳凰,3,CHAN YIM KWONG JOE,陳炎光,1322,1
+H05,Fung Tak,鳳德,1,FU MOON FONG FERDINAND,傅滿芳,220,0
+H05,Fung Tak,鳳德,2,WONG KWOK KEUNG,黃國強,1898,0
+H05,Fung Tak,鳳德,3,KAN CHI HO,簡志豪,2498,1
+H06,Lung Sing,龍星,1,CHAN WAI SUN SIMON,陳維新,233,0
+H06,Lung Sing,龍星,2,TAM HEUNG MAN,譚香文,2862,1
+H06,Lung Sing,龍星,3,CHOI LUK SING,蔡六乘,2809,0
+H07,San Po Kong,新蒲崗,1,LEE TAT YAN,李達仁,2877,1
+H07,San Po Kong,新蒲崗,2,WAT KI ON,屈奇安,1275,0
+H07,San Po Kong,新蒲崗,3,LEUNG YAT MING PAUL,梁日明,502,0
+H08,Tung Tau,東頭,,LI TAK HONG,李德康,0,2
+H09,Tung Mei,東美,1,LAM MAN FAI,林文輝,1607,0
+H09,Tung Mei,東美,2,MOK YING FAN,莫應帆,1878,1
+H10,Lok Fu,樂富,,CHAN WAI KWAN ANDIE,陳偉坤,0,2
+H11,Wang Tau Hom,橫頭磡,1,LAI WING HO JOE,黎榮浩,3226,1
+H11,Wang Tau Hom,橫頭磡,2,WONG SHUN YIN,黃順賢,1601,0
+H12,Tin Keung,天強,1,CHAN ON TAI,陳安泰,2987,1
+H12,Tin Keung,天強,2,WONG HOK MING,黃鶴鳴,1501,0
+H13,Tsui Chuk & Pang Ching,翠竹及鵬程,,SO SIK KIN,蘇錫堅,0,2
+H14,Chuk Yuen South,竹園南,1,HUI KAM SHING,許錦成,2748,1
+H14,Chuk Yuen South,竹園南,2,CHONG CHAK CHOI,莊澤財,1573,0
+H15,Chuk Yuen North,竹園北,1,CHAN KA WAI,陳嘉偉,507,0
+H15,Chuk Yuen North,竹園北,2,TING CHI WAI ROY,丁志威,2754,1
+H15,Chuk Yuen North,竹園北,3,TO KWAN HANG ANDREW,陶君行,1660,0
+H16,Tsz Wan West,慈雲西,1,LUI WING KEI,呂永基,2502,0
+H16,Tsz Wan West,慈雲西,2,YUEN KWOK KEUNG,袁國強,2596,1
+H17,Ching Oi,正愛,,CHAN MAN KI MAGGIE,陳曼琪,0,2
+H18,Ching On,正安,1,WONG YAT YUK,黃逸旭,3762,1
+H18,Ching On,正安,2,CHAN CHAK SUM,陳澤森,1131,0
+H19,Tsz Wan East,慈雲東,,HO HON MAN,何漢文,0,2
+H20,King Fu,瓊富,1,WU CHI WAI,胡志偉,4300,1
+H20,King Fu,瓊富,2,GUO SHAN ZHEN,郭善甄,968,0
+H21,Choi Wan East,彩雲東,1,LOK WAI CHUEN,駱偉泉,55,0
+H21,Choi Wan East,彩雲東,2,CHOY TSZ KIN TIMOTHY,蔡子健,1533,0
+H21,Choi Wan East,彩雲東,3,WONG KWOK TUNG,黃國桐,2025,1
+H22,Choi Wan South,彩雲南,1,SHUM WAN WA,沈運華,2244,1
+H22,Choi Wan South,彩雲南,2,CHEUNG SZE CHUN,張思晉,1088,0
+H23,Choi Wan West,彩雲西,1,LEUNG CHUN WAH,梁振華,200,0
+H23,Choi Wan West,彩雲西,2,CHUI PAK TAI,徐百弟,1554,0
+H23,Choi Wan West,彩雲西,3,TAM MEI PO,譚美普,1819,1
+H24,Chi Choi,池彩,1,CHUI KA CHUN DICKENS,崔家俊,1425,0
+H24,Chi Choi,池彩,2,HO YIN FAI,何賢輝,1712,1
+H25,Choi Hung,彩虹,1,TSOI CHI YIN,蔡志賢,1232,0
+H25,Choi Hung,彩虹,2,MOK KIN WING,莫健榮,2802,1
+J01,Kwun Tong Central,觀塘中心,1,TSUI WING CHUEN RICKY,徐永銓,146,0
+J01,Kwun Tong Central,觀塘中心,2,CHAN WAH YU NELSON,陳華裕,1751,1
+J01,Kwun Tong Central,觀塘中心,3,LAI YUEN PAN,賴遠彬,1033,0
+J02,Kowloon Bay,九龍灣,1,POON YAM WAI CHUN WINNIE,潘任惠珍,2030,1
+J02,Kowloon Bay,九龍灣,2,TOU YAT LUNG ALEX,竇一龍,662,0
+J03,Kai Yip,啟業,,SZE LUN HUNG,施能熊,0,2
+J04,Lai Ching,麗晶,1,POON CHUN YUEN,潘進源,2729,1
+J04,Lai Ching,麗晶,2,CHAN TSZ KIT SUNNY,陳梓杰,2567,0
+J05,Ping Shek,坪石,1,LAM SUM SHING,林森成,817,0
+J05,Ping Shek,坪石,2,CHAN PAK LI BERNARD,陳百里,2759,1
+J06,Sheung Choi,雙彩,1,TAM SIU CHEUK,譚肇卓,1814,1
+J06,Sheung Choi,雙彩,2,WONG KA LOK,黃家樂,259,0
+J06,Sheung Choi,雙彩,3,YING WING HO,邢永豪,426,0
+J07,Jordan Valley,佐敦谷,1,WONG WAI TAG,黃偉達,2092,0
+J07,Jordan Valley,佐敦谷,2,NGAN MAN YU,顏汶羽,2234,1
+J08,Shun Tin,順天,,KWOK BIT CHUN,郭必錚,0,2
+J09,Sheung Shun,雙順,,FU PIK CHUN,符碧珍,0,2
+J10,On Lee,安利,,CHOY CHAK HUNG,蔡澤鴻,0,2
+J11,Po Tat,寶達,,HUNG KAM IN,洪錦鉉,0,2
+J12,Sau Mau Ping North,秀茂坪北,1,KAI MING WAH,計明華,2118,0
+J12,Sau Mau Ping North,秀茂坪北,2,WONG CHUN PING,黃春平,2934,1
+J13,Hiu Lai,曉麗,1,LI KONG SANG,李港生,1677,0
+J13,Hiu Lai,曉麗,2,SO LAI CHUN,蘇麗珍,3210,1
+J14,Sau Mau Ping South,秀茂坪南,1,LI YIU KEE,李耀基,1984,0
+J14,Sau Mau Ping South,秀茂坪南,2,MAK FU LING,麥富寧,3201,1
+J15,Hing Tin,興田,1,YU SHING HEI,余誠禧,1030,0
+J15,Hing Tin,興田,2,CHAN TIN TSAN TIMOTHY,陳天贊,380,0
+J15,Hing Tin,興田,3,CHAN MAN KIN,陳汶堅,1921,1
+J15,Hing Tin,興田,4,SUN HUNG WA,孫鴻華,500,0
+J16,Lam Tin,藍田,1,LEE KAI MAN,李啓文,768,0
+J16,Lam Tin,藍田,2,KAN MING TUNG,簡銘東,3308,1
+J17,Kwong Tak,廣德,,OR CHONG SHING WILSON,柯創盛,0,2
+J18,Ping Tin,平田,,YIU PAK LEUNG,姚柏良,0,2
+J19,Pak Nga,栢雅,1,TANG CHI HO FRANCIS,鄧志豪,1617,0
+J19,Pak Nga,栢雅,2,HO KAI MING,何啟明,2019,1
+J20,Yau Tong East,油塘東,1,CHEUNG KI TANG,張琪騰,4050,1
+J20,Yau Tong East,油塘東,2,KAM CHEUNG CHEUNG,金章翔,760,0
+J20,Yau Tong East,油塘東,3,TAM SHU FAN ARISTY,譚樹芬,348,0
+J21,Yau Lai,油麗,1,LAI SHU HO PATRICK,黎樹濠,1460,1
+J21,Yau Lai,油麗,2,MOK KIN SHING,莫建成,667,0
+J21,Yau Lai,油麗,3,AU YUN FO,區潤科,144,0
+J22,Chui Cheung,翠翔,1,LEUNG JULIUS ANTHONY,梁頴超,137,0
+J22,Chui Cheung,翠翔,2,TSE SUK CHUN,謝淑珍,1823,1
+J22,Chui Cheung,翠翔,3,LAU CHONG HIM FREDERICK,劉礎慊,658,0
+J22,Chui Cheung,翠翔,4,LIU KIT MING,廖潔明,941,0
+J22,Chui Cheung,翠翔,5,LEE FUNG NIN,李豐年,59,0
+J23,Yau Tong West,油塘西,1,HON KA MING,韓家銘,779,0
+J23,Yau Tong West,油塘西,2,LUI TUNG HAI,呂東孩,3229,1
+J24,Laguna City,麗港城,,TANG WING CHUN,鄧咏駿,0,2
+J25,King Tin,景田,1,CHEUNG SHUN WAH,張順華,2923,1
+J25,King Tin,景田,2,WU HING YIN REMZI,吳謦燃,1296,0
+J26,Tsui Ping,翠屏,1,LAM KA KEUNG,林家強,2805,0
+J26,Tsui Ping,翠屏,2,FUNG MEI WAN,馮美雲,3067,1
+J27,Po Lok,寶樂,1,LAU TING ON,劉定安,1924,1
+J27,Po Lok,寶樂,2,LUK TAI HANG,陸大恒,751,0
+J28,Yuet Wah,月華,1,LAM CHI YAU,林志釉,1025,0
+J28,Yuet Wah,月華,2,HSU HOI SHAN,徐海山,2132,1
+J29,Hip Hong,協康,1,KAN SUN WA DAVID,姜新華,882,0
+J29,Hip Hong,協康,2,CHAN CHUNG BUN BUNNY,陳振彬,1715,1
+J30,Hong Lok,康樂,1,LAU WAI CHUNG,劉偉忠,468,0
+J30,Hong Lok,康樂,2,WU KIN WA,胡健華,402,0
+J30,Hong Lok,康樂,3,MA YAT CHIU,馬軼超,1819,1
+J31,Ting On,定安,1,WONG KAI MING,黃啟明,2419,1
+J31,Ting On,定安,2,KAM KIN,金堅,1638,0
+J32,Ngau Tau Kok,牛頭角,,CHAN KOK WAH BEN,陳國華,0,2
+J33,To Tai,淘大,,YIP HING KWOK,葉興國,0,2
+J34,Lok Wah North,樂華北,1,YEUNG KWOK HUNG,楊國雄,1363,0
+J34,Lok Wah North,樂華北,2,FUNG KAM YUEN,馮錦源,1739,1
+J35,Lok Wah South,樂華南,1,HUI WAI FUNG AMY,許慧鳳,802,0
+J35,Lok Wah South,樂華南,2,SO KOON CHUNG KEVIN,蘇冠聰,2423,1
+K01,Tak Wah,德華,1,LO SIU KIT,羅少傑,1863,1
+K01,Tak Wah,德華,2,LAI KING WAI,黎敬瑋,639,0
+K02,Yeung Uk Road,楊屋道,1,CHAN HAN PAN,陳恒鑌,2246,1
+K02,Yeung Uk Road,楊屋道,2,YIP SUI LUN,葉穗倫,703,0
+K03,Hoi Bun,海濱,1,LEE WAI YEE,李偉儀,1129,0
+K03,Hoi Bun,海濱,2,CHENG PAK KEUNG,鄭柏強,1028,0
+K03,Hoi Bun,海濱,3,CHOW PING TIM,鄒秉恬,2209,1
+K04,Clague Garden,祈德尊,1,LAM KWONG YIU EDDY,林光耀,630,0
+K04,Clague Garden,祈德尊,2,CHAN KAM LAM,陳金霖,2072,1
+K05,Fuk Loi,福來,1,MUI YEE LING,梅綺玲,869,0
+K05,Fuk Loi,福來,2,KOT SIU YUEN,葛兆源,2511,1
+K06,Discovery Park,愉景,1,WONG YUI TAK LOUIS,王銳德,2002,0
+K06,Discovery Park,愉景,2,TIEN MICHAEL PUK SUN,田北辰,2256,1
+K07,Tsuen Wan Centre,荃灣中心,1,TSANG TAI,曾大,1617,0
+K07,Tsuen Wan Centre,荃灣中心,2,LI HUNG POR,李洪波,1657,1
+K08,Allway,荃威,,LAM YUEN PUN,林婉濱,0,2
+K09,Lai To,麗濤,1,WONG WAI KIT,黃偉傑,4398,1
+K09,Lai To,麗濤,2,KWOK CHI KIN EVEREST,郭志堅,549,0
+K10,Lai Hing,麗興,1,LAM LAM NIXIE,林琳,1965,1
+K10,Lai Hing,麗興,2,CHAN SO LING JACQUELINE,陳素玲,1045,0
+K10,Lai Hing,麗興,3,AU MING SZE,歐銘絲,845,0
+K11,Tsuen Wan Rural West,荃灣郊區西,1,TSENG WEN TIEN JUSTIN,曾文典,1913,1
+K11,Tsuen Wan Rural West,荃灣郊區西,2,WONG YOUNG MO LIN KATHERINE,黃楊慕蓮,210,0
+K11,Tsuen Wan Rural West,荃灣郊區西,3,LEE MOSES,李摩西,1054,0
+K12,Tsuen Wan Rural East,荃灣郊區東,,CHAN WAI MING,陳偉明,0,2
+K13,Luk Yeung,綠楊,1,SO YIU KWAN,蘇耀坤,805,0
+K13,Luk Yeung,綠楊,2,LAM FAAT KANG,林發耿,2481,1
+K14,Lei Muk Shue East,梨木樹東,1,LUI DIK MING,呂廸明,1839,0
+K14,Lei Muk Shue East,梨木樹東,2,CHAN YUEN SUM SUMLY,陳琬琛,2761,1
+K14,Lei Muk Shue East,梨木樹東,3,CHAU WAI YEE,周慧兒,77,0
+K15,Lei Muk Shue West,梨木樹西,1,WONG KA WA,黃家華,2260,1
+K15,Lei Muk Shue West,梨木樹西,2,WONG TAK CHI,黃德智,1548,0
+K16,Shek Wai Kok,石圍角,,MAN YU MING,文裕明,0,2
+K17,Cheung Shek,象石,1,CHOY TSZ MAN,蔡子民,1581,0
+K17,Cheung Shek,象石,2,CHAN CHUN CHUNG,陳振中,1768,1
+K17,Cheung Shek,象石,3,WONG CHI SHUN ADEN,黃志順,257,0
+L01,Tuen Mun Town Centre,屯門市中心,1,LAU KA LUN,劉嘉麟,267,0
+L01,Tuen Mun Town Centre,屯門市中心,2,CHAN KA KIN,陳家健,590,0
+L01,Tuen Mun Town Centre,屯門市中心,3,AU CHI YUEN,歐志遠,899,1
+L01,Tuen Mun Town Centre,屯門市中心,4,YEUNG MAN TAT,楊文達,458,0
+L02,Siu Chi,兆置,1,LAM CHUNG HOI,林頌鎧,2854,1
+L02,Siu Chi,兆置,2,WONG KA LEUNG,王加良,314,0
+L02,Siu Chi,兆置,3,LAW YIU CHUEN,羅耀銓,648,0
+L03,Siu Tsui,兆翠,1,HO WING TUNG,何榮東,256,0
+L03,Siu Tsui,兆翠,2,LO MAN HON,盧民漢,2876,1
+L03,Siu Tsui,兆翠,3,YIP MAN PAN,葉文斌,1742,0
+L04,On Ting,安定,1,LEUNG CHI HO,梁志豪,1245,0
+L04,On Ting,安定,2,KONG FUNG YI,江鳳儀,2639,1
+L05,Yau Oi South,友愛南,1,TSANG HIN HONG,曾憲康,1967,1
+L05,Yau Oi South,友愛南,2,LAI KA LONG,黎家朗,300,0
+L05,Yau Oi South,友愛南,3,CHEUNG YUET LAN,蔣月蘭,1149,0
+L06,Yau Oi North,友愛北,1,CHAN WAN SANG,陳雲生,1785,1
+L06,Yau Oi North,友愛北,2,LAM LAP,林立,811,0
+L07,Tsui Hing,翠興,1,CHU YIU WAH,朱耀華,1895,1
+L07,Tsui Hing,翠興,2,NG SIU HONG,吳兆康,1175,0
+L08,Shan King,山景,1,LEUNG MAN PUN,梁文斌,781,0
+L08,Shan King,山景,2,NG KOON HUNG,吳觀鴻,2373,1
+L09,King Hing,景興,,CHAN YAU HOI,陳有海,0,2
+L10,Hing Tsak,興澤,1,TSUI FAN,徐帆,2513,1
+L10,Hing Tsak,興澤,2,SETO CHUN PONG,司徒振邦,1040,0
+L11,San Hui,新墟,1,MA YUK MUI,馬玉妹,680,0
+L11,San Hui,新墟,2,KWU HON KEUNG,古漢強,1323,1
+L12,Sam Shing,三聖,1,YUNG SAI MING,翁世銘,845,0
+L12,Sam Shing,三聖,2,SO SHIU SHING,蘇炤成,1416,1
+L13,Hanford,恆福,1,KEUNG KAI PONG,姜啟邦,963,0
+L13,Hanford,恆福,2,CHU SHUN NGA BEATRICE,朱順雅,1447,1
+L13,Hanford,恆福,3,LI KWAI FONG,李桂芳,1140,0
+L14,Fu Sun,富新,1,HO PUI HAN,何佩嫻,899,0
+L14,Fu Sun,富新,2,LUNG KANG SAN,龍更新,1016,1
+L14,Fu Sun,富新,3,LI SHUK CHING ELSA,李淑貞,543,0
+L15,Yuet Wu,悅湖,1,CHEUNG HANG FAI,張恒輝,1904,1
+L15,Yuet Wu,悅湖,2,YIP LAI MEI NATALIE,葉麗媚,408,0
+L15,Yuet Wu,悅湖,3,KWUN TUNG WING,官東榮,1189,0
+L16,Siu Hei,兆禧,1,YIM TIN SANG,嚴天生,1608,1
+L16,Siu Hei,兆禧,2,HAU KWOK TUNG,侯國東,1174,0
+L17,Wu King,湖景,,LEUNG KIN MAN,梁健文,0,2
+L18,Butterfly,蝴蝶,1,WAN SUI KEI,温瑞岐,418,0
+L18,Butterfly,蝴蝶,2,TAI YIN CHIU,戴賢招,1342,0
+L18,Butterfly,蝴蝶,3,SO OI KWAN,蘇愛群,1934,1
+L19,Lok Tsui,樂翠,1,CHAN WAI YIP ALBERT,陳偉業,303,0
+L19,Lok Tsui,樂翠,2,HO CHUN YAN,何俊仁,1876,1
+L19,Lok Tsui,樂翠,3,SHUM KAM TIM,沈錦添,1477,0
+L20,Lung Mun,龍門,1,LUNG SHUI HING,龍瑞卿,2310,1
+L20,Lung Mun,龍門,2,FUNG CHEUK KI,馮卓奇,871,0
+L20,Lung Mun,龍門,3,CHAN KIN CHEUNG,陳建璋,666,0
+L21,San King,新景,1,LEE FUNG SIM,李鳳嬋,1085,0
+L21,San King,新景,2,WONG LAI SHEUNG CATHERINE,黃麗嫦,2533,1
+L22,Leung King,良景,1,CHING CHI HUNG,程志紅,2418,1
+L22,Leung King,良景,2,TANG WAI KEUNG,唐偉強,1443,0
+L23,Tin King,田景,1,TSANG CHUN HING,曾振興,1098,0
+L23,Tin King,田景,2,LEE HUNG SHAM LOTHAR,李洪森,2306,1
+L24,Po Tin,寶田,1,CHAN SAU WAN,陳秀雲,1270,0
+L24,Po Tin,寶田,2,KONG WAN CHING,江雲菁,104,0
+L24,Po Tin,寶田,3,SO KA MAN,蘇嘉雯,1971,1
+L24,Po Tin,寶田,4,CHUNG YIU YEE,鍾耀儀,124,0
+L25,Kin Sang,建生,1,CHAN MAN WAH,陳文華,2882,1
+L25,Kin Sang,建生,2,LEE KAM TIM,李錦添,1089,0
+L26,Siu Hong,兆康,1,CHAN SHU YING JOSEPHINE,陳樹英,2111,1
+L26,Siu Hong,兆康,2,MO SHING FUNG,巫成鋒,1587,0
+L26,Siu Hong,兆康,3,MAN CHI KIT,文志傑,151,0
+L27,Prime View,景峰,1,HO HANG MUI,何杏梅,2732,1
+L27,Prime View,景峰,2,CHUI KWAN NGAI,崔君毅,711,0
+L27,Prime View,景峰,3,LAI RAYMOND,黎樂民,249,0
+L28,Fu Tai,富泰,1,FONG LAI MAN,方麗雯,2433,0
+L28,Fu Tai,富泰,2,CHAN MANWELL,陳文偉,2771,1
+L29,Tuen Mun Rural,屯門鄉郊,,TO SHECK YUEN,陶錫源,0,2
+M01,Fung Nin,豐年,1,LUI KIN,呂堅,2361,1
+M01,Fung Nin,豐年,2,LEE KA WAH,李嘉華,800,0
+M02,Shui Pin,水邊,1,YUEN MAN YEE,袁敏兒,2344,1
+M02,Shui Pin,水邊,2,WONG KIN WING,黃健榮,1178,0
+M03,Nam Ping,南屏,1,WONG WAI YIN ZACHARY,黃偉賢,2780,1
+M03,Nam Ping,南屏,2,YAU KA KEUNG,邱嘉強,1004,0
+M04,Pek Long,北朗,1,KWONG CHUN YU,鄺俊宇,2554,1
+M04,Pek Long,北朗,2,CHAN CHI WAI,陳智偉,1302,0
+M05,Yuen Long Centre,元朗中心,1,HUI CHIU FAN,許昭藩,756,0
+M05,Yuen Long Centre,元朗中心,2,SIU LONG MING,蕭浪鳴,1912,1
+M06,Fung Cheung,鳳翔,1,YU CHUNG LEUNG,余仲良,1580,0
+M06,Fung Cheung,鳳翔,2,MAK IP SING,麥業成,1845,1
+M07,Shap Pat Heung North,十八鄉北,,SHUM HO KIT,沈豪傑,0,2
+M08,Shap Pat Heung South,十八鄉南,1,LEUNG MING KIN,梁明堅,2266,0
+M08,Shap Pat Heung South,十八鄉南,2,CHING CHAN MING,程振明,3231,1
+M09,Ping Shan South,屏山南,1,WONG SHING TONG,黃勝棠,1394,0
+M09,Ping Shan South,屏山南,2,CHEUNG MUK LAM,張木林,2187,1
+M10,Ping Shan North,屏山北,,TANG HING IP,鄧慶業,0,2
+M11,Ha Tsuen,廈村,,TANG KA LEUNG,鄧家良,0,2
+M12,Tin Shing,天盛,1,CHAN SZE CHING,陳思靜,2108,1
+M12,Tin Shing,天盛,2,CHAN WAI CHING,陳惠清,1921,0
+M13,Shui Oi,瑞愛,,KWOK KEUNG,郭強,0,2
+M14,Shui Wah,瑞華,1,LAU KWUN HANG,劉冠亨,666,0
+M14,Shui Wah,瑞華,2,CHOW WING KAN,周永勤,1698,1
+M14,Shui Wah,瑞華,3,KO CHUN KIT,高俊傑,1021,0
+M15,Chung Wah,頌華,1,LIU YAM,廖任,446,0
+M15,Chung Wah,頌華,2,WONG WAI LING,黃煒鈴,1349,1
+M16,Yuet Yan,悅恩,1,KEUNG KWOK WAI,強國偉,866,0
+M16,Yuet Yan,悅恩,2,CHIU SAU HAN,趙秀嫻,1911,1
+M17,Fu Yan,富恩,1,LEE CHEUK YAN,李卓人,1700,0
+M17,Fu Yan,富恩,2,LAU KWAI YUNG,劉桂容,1838,1
+M18,Yat Chak,逸澤,1,WONG YU CHOI,黃裕材,1561,0
+M18,Yat Chak,逸澤,2,KWOK HING PING,郭慶平,1735,1
+M19,Tin Heng,天恒,,LUK CHUNG HUNG,陸頌雄,0,2
+M20,Wang Yat,宏逸,1,HO KA HONG,何家康,142,0
+M20,Wang Yat,宏逸,2,NG YUK YING,吳玉英,987,0
+M20,Wang Yat,宏逸,3,YIU KWOK WAI,姚國威,2274,1
+M21,Ching King,晴景,1,TANG CHEUK HIM,鄧焯謙,1848,1
+M21,Ching King,晴景,2,LAI SUET WING,黎雪詠,190,0
+M21,Ching King,晴景,3,WONG CHUN TAT MICHAEL,王竣達,1443,0
+M22,Kingswood North,嘉湖北,1,LEE YUET MAN,李月民,2685,1
+M22,Kingswood North,嘉湖北,2,CHU SIU HUNG,朱韶洪,613,0
+M23,Tsz Yau,慈祐,1,MA SHUK YIN,馬淑燕,2069,0
+M23,Tsz Yau,慈祐,2,CHAN MEI LIN,陳美蓮,2459,1
+M24,Tin Yiu,天耀,,LEUNG CHE CHEUNG,梁志祥,0,2
+M25,Kingswood South,嘉湖南,,CHAM KA HUNG DANIEL,湛家雄,0,2
+M26,Chung Pak,頌栢,1,CHAN WAI MAN,陳偉文,117,0
+M26,Chung Pak,頌栢,2,TSE KUI SING,謝巨誠,745,0
+M26,Chung Pak,頌栢,3,LI TSZ KEUNG THOMAS,李子強,391,0
+M26,Chung Pak,頌栢,4,WONG CHEUK KIN,黃卓健,1032,1
+M26,Chung Pak,頌栢,5,YEUNG SAI CHEONG VICTOR,楊世昌,349,0
+M27,Fairview Park,錦綉花園,,YAU TAI TAI,邱帶娣,0,2
+M28,San Tin,新田,1,CHAU CHUN KUN,周振勤,776,0
+M28,San Tin,新田,2,MAN KWONG MING,文光明,1865,1
+M29,Kam Tin,錦田,,TANG CHEUK YIN,鄧卓然,0,2
+M30,Pat Heung North,八鄉北,1,TANG YUNG YIU RONNIE,鄧鎔耀,1350,0
+M30,Pat Heung North,八鄉北,2,CHU HOI DICK EDDIE,朱凱廸,283,0
+M30,Pat Heung North,八鄉北,3,TANG KWAI YAU,鄧貴有,1439,1
+M31,Pat Heung South,八鄉南,1,FUNG YU CHUK FANCY,馮汝竹,767,0
+M31,Pat Heung South,八鄉南,2,LAI WAI HUNG,黎偉雄,2747,1
+N01,Luen Wo Hui,聯和墟,1,LAW SAI YAN,羅世恩,2159,1
+N01,Luen Wo Hui,聯和墟,2,TSANG HING LUNG,曾興隆,1512,0
+N02,Fanling Town,粉嶺市,1,LEUNG KA YUE GARY,梁家裕,928,0
+N02,Fanling Town,粉嶺市,2,CHEUNG WAI YIP,張偉業,1224,0
+N02,Fanling Town,粉嶺市,3,PANG CHUN SING GEORGE,彭振聲,1365,1
+N02,Fanling Town,粉嶺市,4,IP MEI HO,葉美好,326,0
+N03,Cheung Wah,祥華,1,MOK SIU LUN,莫兆麟,2344,0
+N03,Cheung Wah,祥華,2,YIP YIU SHING CHRIS,葉曜丞,2508,1
+N04,Wah Do,華都,1,LI KAI HANG,李啟恒,158,0
+N04,Wah Do,華都,2,YIU MING,姚銘,3062,1
+N04,Wah Do,華都,3,LI WING SHING,李永成,1956,0
+N05,Wah Ming,華明,1,LAI SUM,賴心,2219,1
+N05,Wah Ming,華明,2,LEE LAP HONG ALMUSTAFA,李立航,1517,0
+N06,Yan Shing,欣盛,1,YAN WING LOK ALEXANDER,甄永樂,935,0
+N06,Yan Shing,欣盛,2,LAU KWOK FAN,劉國勳,4791,1
+N07,Shing Fuk,盛福,1,WAN WO TAT WARWICK,温和達,2885,1
+N07,Shing Fuk,盛福,2,WONG HO CHUEN ERIC,王浩泉,1568,0
+N08,Sheung Shui Rural,上水鄉郊,1,HAU FUK TAT SIMON,侯福達,2211,0
+N08,Sheung Shui Rural,上水鄉郊,2,HAU KAM LAM,侯金林,2293,1
+N09,Ching Ho,清河,1,LARM WAI LEUNG,藍偉良,2625,1
+N09,Ching Ho,清河,2,SO CHIN LUNG TIM,蘇展龍,315,0
+N09,Ching Ho,清河,3,TSUI KA KIT ALEXANDER,徐家傑,535,0
+N10,Yu Tai,御太,1,TSANG KING CHUNG KENT,曾勁聰,1447,1
+N10,Yu Tai,御太,2,TSANG SHEUNG CHI,曾尚智,639,0
+N11,Choi Yuen,彩園,1,SO SAI CHI,蘇西智,2773,1
+N11,Choi Yuen,彩園,2,AU WAI KONG,區維綱,349,0
+N11,Choi Yuen,彩園,3,WONG SING CHI,黃成智,1673,0
+N12,Shek Wu Hui,石湖墟,1,CHEUNG SHUK MAN,張淑雯,453,0
+N12,Shek Wu Hui,石湖墟,2,CHOW KAM SIU JOSEPH,周錦紹,1210,0
+N12,Shek Wu Hui,石湖墟,3,WONG YUN KEUNG SIMON,王潤強,1564,1
+N12,Shek Wu Hui,石湖墟,4,HAU WING KONG ALVAN,侯榮光,506,0
+N13,Tin Ping West,天平西,1,YIM CHI HANG,嚴志恆,1510,0
+N13,Tin Ping West,天平西,2,WONG WANG TO,黃宏滔,1896,1
+N14,Fung Tsui,鳳翠,1,LIU CHIU WA,廖超華,979,0
+N14,Fung Tsui,鳳翠,2,LIU KWOK WAH,廖國華,1540,1
+N14,Fung Tsui,鳳翠,3,LIU HING HUNG,廖興洪,996,0
+N15,Sha Ta,沙打,1,WAN WO FAI,温和輝,2694,1
+N15,Sha Ta,沙打,2,TSANG YUK ON,曾玉安,1773,0
+N16,Tin Ping East,天平東,1,MOK FU WAH SIMON,莫富華,78,0
+N16,Tin Ping East,天平東,2,YU CHI SHING PAUL,余智成,1006,0
+N16,Tin Ping East,天平東,3,OR SIN YI WINDY,柯倩儀,1241,1
+N16,Tin Ping East,天平東,4,LEUNG YUK CHEUNG,梁玉祥,1163,0
+N17,Queen's Hill,皇后山,1,TANG KUN NIN TONY,鄧根年,2106,1
+N17,Queen's Hill,皇后山,2,LI KWONG MING,李廣明,1779,0
+P01,Tai Po Hui,大埔墟,1,YEUNG ALVIN NGOK KIU,楊岳橋,880,0
+P01,Tai Po Hui,大埔墟,2,LI KWOK YING,李國英,1172,1
+P02,Tai Po Central,大埔中,1,AU CHUN WAH,區鎮樺,1271,1
+P02,Tai Po Central,大埔中,2,CHENG MEI LAM,鄭美琳,815,0
+P02,Tai Po Central,大埔中,3,CHEUNG CHI WAI THOMAS,張志偉,634,0
+P03,Chung Ting,頌汀,,TAM WING FUN ERIC,譚榮勳,0,2
+P04,Tai Yuen,大元,1,SO MA TSUN,蘇馬俊,1293,0
+P04,Tai Yuen,大元,2,CHENG CHUN PING,鄭俊平,1746,1
+P05,Fu Heng,富亨,1,YAM MAN CHUEN,任萬全,1966,0
+P05,Fu Heng,富亨,2,WONG CHAU PAK,王秋北,2020,1
+P06,Yee Fu,怡富,1,WOO KIN MAN CLEMENT,胡健民,1992,0
+P06,Yee Fu,怡富,2,YAM KAI BONG,任啟邦,3864,1
+P07,Fu Ming Sun,富明新,1,KWAN WING YIP,關永業,2780,1
+P07,Fu Ming Sun,富明新,2,WONG YUEN SANG,黃元生,1458,0
+P08,Kwong Fuk & Plover Cove,廣福及寶湖,,LAM CHUEN,林泉,0,2
+P09,Wang Fuk,宏福,,WONG PIK KIU,黃碧嬌,0,2
+P10,Tai Po Kau,大埔滘,,CHAN SIU KUEN,陳笑權,0,2
+P11,Wan Tau Tong,運頭塘,1,CHAN HON HUNG,陳漢雄,499,0
+P11,Wan Tau Tong,運頭塘,2,YU CHI WING,余智榮,2881,1
+P11,Wan Tau Tong,運頭塘,3,LEE CHI SHING EDWARD,李志成,1311,0
+P12,San Fu,新富,1,LAM CHING LUN,林精倫,306,0
+P12,San Fu,新富,2,LO SOU CHOUR,羅舜泉,2129,1
+P12,San Fu,新富,3,CHUNG YUK FAI DONALD,鍾旭輝,662,0
+P13,Lam Tsuen Valley,林村谷,1,CHAN CHO LEUNG,陳灶良,2953,1
+P13,Lam Tsuen Valley,林村谷,2,CHEUNG KWOK YIU,張國耀,1678,0
+P14,Po Nga,寶雅,1,WONG YUNG KAN,黃容根,2417,1
+P14,Po Nga,寶雅,2,CHEUNG KAM HUNG KENNETH,張錦雄,1196,0
+P15,Tai Wo,太和,1,CHENG CHUN WO,鄭俊和,3236,1
+P15,Tai Wo,太和,2,LEE LAI LAI LILY,李麗麗,688,0
+P16,Old Market & Serenity,舊墟及太湖,1,YIK KIN HING,易健卿,37,0
+P16,Old Market & Serenity,舊墟及太湖,2,LEE KIN MAN EDMUND,李健文,1269,0
+P16,Old Market & Serenity,舊墟及太湖,3,LEUNG MING KWONG,梁明光,186,0
+P16,Old Market & Serenity,舊墟及太湖,4,CHEUNG KWOK WAI,張國慧,1696,1
+P17,Hong Lok Yuen,康樂園,,TANG YAU FAT,鄧友發,0,2
+P18,Shuen Wan,船灣,1,LO SAM SHING,盧三勝,1042,0
+P18,Shuen Wan,船灣,2,LAU CHEE SING,劉志成,1362,1
+P18,Shuen Wan,船灣,3,WONG WAI TONG RAYMOND,黃惠棠,144,0
+P19,Sai Kung North,西貢北,1,HO TAI WAI DAVID,何大偉,1404,1
+P19,Sai Kung North,西貢北,2,LI YIU BAN,李耀斌,710,0
+Q01,Sai Kung Central,西貢市中心,,NG SZE FUK,吳仕福,0,2
+Q02,Pak Sha Wan,白沙灣,,HIEW MOO SIEW,邱戊秀,0,2
+Q03,Sai Kung Islands,西貢離島,1,CHEUNG KWOK HUNG,張國雄,357,0
+Q03,Sai Kung Islands,西貢離島,2,LI KA LEUNG PHILIP,李家良,935,1
+Q04,Hang Hau East,坑口東,,LAU WAI CHEUNG PETER,劉偉章,0,2
+Q05,Hang Hau West,坑口西,,YAU YUK LUN,邱玉麟,0,2
+Q06,Po Kwan,寶軍,1,NG SHUET SHAN,吳雪山,1623,1
+Q06,Po Kwan,寶軍,2,YU HON LUN,余漢倫,934,0
+Q06,Po Kwan,寶軍,3,TSE CHING FUNG,謝正楓,1148,0
+Q07,Wai Do,維都,,CHAN KAI WAI,陳繼偉,0,2
+Q08,Kin Shin,健善,1,LEE CHUN HO,李鎮浩,482,0
+Q08,Kin Shin,健善,2,WONG PING HUNG ADAM,黃炳雄,136,0
+Q08,Kin Shin,健善,3,LEUNG LI,梁里,3096,1
+Q08,Kin Shin,健善,4,WONG YAN KET,黃恩琪,125,0
+Q09,Choi Kin,彩健,1,YU KAI CHUN,余啟津,747,0
+Q09,Choi Kin,彩健,2,HO MAN KIT RAYMOND,何民傑,2467,1
+Q10,O Tong,澳唐,1,LO TIM MAN HIM,盧文謙,923,0
+Q10,O Tong,澳唐,2,CHEUNG KWOK KEUNG,張國強,2197,1
+Q11,Fu Kwan,富君,1,LUI KIM HO,呂劍豪,873,0
+Q11,Fu Kwan,富君,2,LAM CHUN KA,林俊嘉,522,0
+Q11,Fu Kwan,富君,3,LUK PING CHOI,陸平才,1836,1
+Q12,Nam On,南安,1,CHAU YIN MING FRANCIS,周賢明,3117,1
+Q12,Nam On,南安,2,CHAN SHU KUEN TIMOTHY,陳樹權,812,0
+Q13,Hong King,康景,1,LAM SIU CHUNG FRANKIE,林少忠,2531,1
+Q13,Hong King,康景,2,LEUNG LOK SUM,梁樂深,1742,0
+Q14,Tsui Lam,翠林,1,SHEK CHI KEUNG,石志强,1220,0
+Q14,Tsui Lam,翠林,2,TAM LANNY,譚領律,3133,1
+Q15,Po Lam,寶林,1,AU NING FAT ALFRED,區能發,2373,1
+Q15,Po Lam,寶林,2,CHAN PING HANG,陳秉衡,872,0
+Q16,Yan Ying,欣英,1,CHUNG KAM LUN,鍾錦麟,2221,1
+Q16,Yan Ying,欣英,2,WONG MAN KIT SUNNY,王文傑,1728,0
+Q16,Yan Ying,欣英,3,CHEUNG MAN KIT,張民傑,266,0
+Q17,Wan Hang,運亨,1,HAU LAI YING,侯勵英,1010,0
+Q17,Wan Hang,運亨,2,FAN GARY KWOK WAI,范國威,3014,1
+Q18,King Lam,景林,1,KI LAI MEI,祁麗媚,2281,0
+Q18,King Lam,景林,2,LAM WING YIN,林咏然,2687,1
+Q19,Hau Tak,厚德,1,CHUNG EN SHIUH,鍾恩緒,1706,0
+Q19,Hau Tak,厚德,2,LING MAN HOI,凌文海,2260,1
+Q20,Fu Nam,富藍,,CHAN KWOK KAI,陳國旗,0,2
+Q21,Tak Ming,德明,1,WAN YUET CHEUNG,溫悅昌,2522,1
+Q21,Tak Ming,德明,2,CHEUNG BO HOP JERSEY,張寶合,1244,0
+Q22,Sheung Tak,尚德,1,KAN SIU KEI,簡兆祺,1883,1
+Q22,Sheung Tak,尚德,2,TSUI CHUNG CHI,崔宗智,41,0
+Q22,Sheung Tak,尚德,3,YIP CHUN KEUNG,葉振強,1545,0
+Q22,Sheung Tak,尚德,4,MAK TSZ HEI,麥子熙,1004,0
+Q22,Sheung Tak,尚德,5,LUK WAI MAN,陸惠民,650,0
+Q22,Sheung Tak,尚德,6,WONG FAI,黃輝,348,0
+Q23,Kwong Ming,廣明,1,CHAN YIN CHU,陳艷珠,16,0
+Q23,Kwong Ming,廣明,2,CHAN TONG WING,陳堂榮,265,0
+Q23,Kwong Ming,廣明,3,SHI HAU KIT SIMON,舒孝傑,334,0
+Q23,Kwong Ming,廣明,4,YUE VIRGINIA,虞瑋倩,192,0
+Q23,Kwong Ming,廣明,5,CHONG YUEN TUNG,莊元苳,2493,1
+Q23,Kwong Ming,廣明,6,OR YIU LAM RICKY,柯耀林,1212,0
+Q24,Wan Po,環保,1,CHEUNG CHI TUNG,張志董,239,0
+Q24,Wan Po,環保,2,TSUI YUN YUNG TERRY,徐潤容,169,0
+Q24,Wan Po,環保,3,FONG KWOK SHAN CHRISTINE,方國珊,2885,1
+R01,Sha Tin Town Centre,沙田市中心,1,TSANG KAM CHUEN KEN,曾錦銓,1521,0
+R01,Sha Tin Town Centre,沙田市中心,2,WAI HING CHEUNG,衞慶祥,1978,1
+R02,Lek Yuen,瀝源,1,WONG HO MING,黃浩銘,967,0
+R02,Lek Yuen,瀝源,2,WONG YUE HON,黃宇翰,1382,1
+R03,Wo Che Estate,禾輋邨,,YUE SHIN MAN ANNA,余倩雯,0,2
+R04,City One,第一城,1,TONG KA WAH RONNY,湯家驊,1582,0
+R04,City One,第一城,2,WONG KA WING,黃嘉榮,3060,1
+R05,Yue Shing,愉城,1,CHIN WAI KIN,錢偉健,743,0
+R05,Yue Shing,愉城,2,LAU TAI SANG,劉帶生,448,0
+R05,Yue Shing,愉城,3,LEUNG KA FAI,梁家輝,2455,1
+R06,Wong Uk,王屋,,LEUNG CHI WAI,梁志偉,0,2
+R07,Sha Kok,沙角,1,YEUNG SIN HUNG,楊倩紅,2425,1
+R07,Sha Kok,沙角,2,CHEUNG TAK WING,張德榮,844,0
+R08,Pok Hong,博康,1,CHAN KWOK TIM,陳國添,2781,1
+R08,Pok Hong,博康,2,PANG SIU YING,彭少英,1504,0
+R09,Jat Min,乙明,1,LAM HONG WAH,林康華,2049,0
+R09,Jat Min,乙明,2,YAU MAN CHUN,丘文俊,2296,1
+R10,Chun Fung,秦豐,1,CHAN NOK HANG,陳諾恒,2285,1
+R10,Chun Fung,秦豐,2,LEUNG CHI KIN,梁志堅,1513,0
+R11,Sun Tin Wai,新田圍,1,CHEUNG KWOK WO,張國和,1309,0
+R11,Sun Tin Wai,新田圍,2,CHING CHEUNG YING,程張迎,2317,1
+R12,Chui Tin,翠田,1,WONG CHAK PIU PHILIP,黃澤標,1723,1
+R12,Chui Tin,翠田,2,MA YU SANG,馬愉生,1153,0
+R13,Hin Ka,顯嘉,1,MOK WAI HUNG,莫偉雄,1758,0
+R13,Hin Ka,顯嘉,2,LAM CHUNG YAN,林松茵,2612,1
+R14,Lower Shing Mun,下城門,,HO HAU CHEUNG,何厚祥,0,2
+R15,Keng Hau,徑口,1,WONG KA SEK,黃嘉錫,1855,0
+R15,Keng Hau,徑口,2,NG KAM HUNG,吳錦雄,1873,1
+R16,Tin Sum,田心,1,LAU KONG WAH,劉江華,1612,1
+R16,Tin Sum,田心,2,SUEN TSAN PUI,孫燦培,521,0
+R17,Chui Ka,翠嘉,1,LI SAI HUNG,李世鴻,1519,0
+R17,Chui Ka,翠嘉,2,LEE KAM MING,李錦明,1801,1
+R18,Tai Wai,大圍,1,LEUNG WING HUNG,梁永雄,2921,0
+R18,Tai Wai,大圍,2,TUNG KIN LEI,董健莉,3302,1
+R19,Chung Tin,松田,1,TANG WING CHEONG,鄧永昌,1636,1
+R19,Chung Tin,松田,2,LEE YUEN KAM,李源錦,1058,0
+R20,Sui Wo,穗禾,1,PANG YUK YING,彭玉英,781,0
+R20,Sui Wo,穗禾,2,PANG CHEUNG WAI THOMAS,彭長緯,1950,1
+R20,Sui Wo,穗禾,3,LI SUI HA,李瑞霞,317,0
+R21,Fo Tan,火炭,1,PONG SCARLETT OI LAN,龐愛蘭,1640,1
+R21,Fo Tan,火炭,2,CHAN TAK CHEUNG,陳德章,522,0
+R21,Fo Tan,火炭,3,LIU HUAN YEE PORINDA,廖韻兒,295,0
+R22,Chun Ma,駿馬,,SIU HIN HONG,蕭顯航,0,2
+R23,Chung On,頌安,1,QUAT ELIZABETH,葛珮帆,2455,1
+R23,Chung On,頌安,2,LAU KA YEE,劉家儀,1721,0
+R24,Kam To,錦濤,1,TAM HIN CHUNG,譚顯宗,323,0
+R24,Kam To,錦濤,2,YEUNG MAN YUI,楊文銳,2104,1
+R24,Kam To,錦濤,3,YAU YUET WAH DONNA,游月華,1730,0
+R25,Ma On Shan Town Centre,馬鞍山市中心,1,TSOI YIU CHEONG RICHARD,蔡耀昌,1421,0
+R25,Ma On Shan Town Centre,馬鞍山市中心,2,LEE CHI WING ALVIN,李子榮,2180,1
+R26,Lee On,利安,1,LO TAI SUEN ADA,羅棣萱,2361,0
+R26,Lee On,利安,2,MAK YUN PUI,麥潤培,2680,1
+R27,Fu Lung,富龍,,LAW KWONG KEUNG,羅光強,0,2
+R28,Kam Ying,錦英,1,TONG PO CHUN,湯寶珍,3134,1
+R28,Kam Ying,錦英,2,WONG KWOK HUNG,黃國雄,982,0
+R29,Yiu On,耀安,1,CHU KIN KONG WILLSON,朱建剛,67,0
+R29,Yiu On,耀安,2,TING TSZ YUEN,丁士元,1621,0
+R29,Yiu On,耀安,3,LI SAI WING,李世榮,3039,1
+R29,Yiu On,耀安,4,HO SUK PING SHIRLEY,何淑萍,231,0
+R30,Heng On,恒安,1,LEUNG YIU CHOI,梁耀才,1933,0
+R30,Heng On,恒安,2,CHENG TSUK MAN,鄭則文,3573,1
+R31,On Tai,鞍泰,1,YEUNG CHEUNG LI,楊祥利,2417,1
+R31,On Tai,鞍泰,2,SO TAT LEUNG,蘇達良,457,0
+R31,On Tai,鞍泰,3,CHOW WAI TUNG,周偉東,1499,0
+R32,Tai Shui Hang,大水坑,1,CHEUNG CHI YIN,張子賢,1345,0
+R32,Tai Shui Hang,大水坑,2,YUNG MING CHAU MICHAEL,容溟舟,2044,1
+R32,Tai Shui Hang,大水坑,3,LAW YUET WAH,羅月華,766,0
+R33,Yu Yan,愉欣,1,YIU KA CHUN,姚嘉俊,2737,1
+R33,Yu Yan,愉欣,2,CHOW YIU HONG,周耀康,885,0
+R34,Bik Woo,碧湖,1,WONG PING FAN,黃冰芬,2052,0
+R34,Bik Woo,碧湖,2,LAU WAI LUN,劉偉倫,2186,1
+R34,Bik Woo,碧湖,3,TSANG MAN YEE ELIZA,曾敏儀,629,0
+R35,Kwong Hong,廣康,1,NG WAI LING,吳惠靈,1478,0
+R35,Kwong Hong,廣康,2,CHENG CHO KWONG,鄭楚光,1808,1
+R36,Kwong Yuen,廣源,,CHAN MAN KUEN,陳敏娟,0,2
+S01,Kwai Hing,葵興,1,LEUNG CHI SHING,梁志成,2606,1
+S01,Kwai Hing,葵興,2,CHAN CHI HANG,陳智恒,1944,0
+S02,Kwai Shing East Estate,葵盛東邨,1,CHOW WAI HUNG RAYMAN,周偉雄,3469,1
+S02,Kwai Shing East Estate,葵盛東邨,2,LAI FAN FONG,賴芬芳,1894,0
+S03,Upper Tai Wo Hau,上大窩口,1,HUI KEI CHEUNG,許祺祥,2329,1
+S03,Upper Tai Wo Hau,上大窩口,2,LOONG FEI WAN,龍飛雲,632,0
+S04,Lower Tai Wo Hau,下大窩口,1,WONG BING KUEN,黃炳權,3010,1
+S04,Lower Tai Wo Hau,下大窩口,2,TSUI SIU FAI,徐紹輝,1015,0
+S05,Kwai Chung Estate North,葵涌邨北,1,NG HAI MING,吳開明,91,0
+S05,Kwai Chung Estate North,葵涌邨北,2,LEUNG KAM WAI,梁錦威,1752,1
+S05,Kwai Chung Estate North,葵涌邨北,3,WONG SIU KWAN,黃紹焜,843,0
+S06,Kwai Chung Estate Central,葵涌邨中,1,NG YAM FUNG BENNY,吳任豐,573,0
+S06,Kwai Chung Estate Central,葵涌邨中,2,WONG YUN TAT,黃潤達,1150,1
+S06,Kwai Chung Estate Central,葵涌邨中,3,WONG FUNG CHUN,黃鳳珍,191,0
+S07,Shek Yam,石蔭,1,WAN SIU KIN ANDREW,尹兆堅,2891,1
+S07,Shek Yam,石蔭,2,WONG HO YAN,黃可欣,1700,0
+S08,On Yam,安蔭,1,LEUNG TSZ WING DENNIS,梁子穎,2768,1
+S08,On Yam,安蔭,2,LEUNG WING KUEN,梁永權,1838,0
+S09,Shek Lei Extension,新石籬,1,CHAN KA LOK,陳嘉樂,152,0
+S09,Shek Lei Extension,新石籬,2,LEE TSZ KING DOMINIC,李梓敬,2629,0
+S09,Shek Lei Extension,新石籬,3,LEUNG KWOK WAH,梁國華,2960,1
+S10,Shek Lei,石籬,1,LAM SIU FAI,林紹輝,2228,1
+S10,Shek Lei,石籬,2,LIU MING KIN,劉明堅,1291,0
+S10,Shek Lei,石籬,3,LAW KA KEI,羅家麒,86,0
+S11,Tai Pak Tin,大白田,1,TSUI SANG HUNG SAMMY,徐生雄,1650,1
+S11,Tai Pak Tin,大白田,2,LUI HOK NANG,呂學能,1488,0
+S11,Tai Pak Tin,大白田,3,TSANG HANG MONG,曾幸旺,166,0
+S12,Kwai Fong,葵芳,1,LEUNG YIU CHUNG,梁耀忠,3944,1
+S12,Kwai Fong,葵芳,2,CHAN WING LAI EDDIE,陳榮禮,387,0
+S13,Wah Lai,華麗,,WONG YIU CHUNG,黃耀聰,0,2
+S14,Lai Wah,荔華,1,CHAN CHI CHUEN RAYMOND,陳志全,333,0
+S14,Lai Wah,荔華,2,LEE WING TAT,李永達,1582,0
+S14,Lai Wah,荔華,3,CHU LAI LING,朱麗玲,1923,1
+S15,Cho Yiu,祖堯,1,LO WAI LAN,盧慧蘭,1535,1
+S15,Cho Yiu,祖堯,2,LAI MING WAI ABBY,黎名橞,1118,0
+S16,Hing Fong,興芳,1,NG KIM SING,吳劍昇,2143,1
+S16,Hing Fong,興芳,2,LEUNG KAR MING,梁嘉銘,2026,0
+S17,Lai King,荔景,,CHOW YICK HAY,周奕希,0,2
+S18,Kwai Shing West Estate,葵盛西邨,1,LAU MEI LO,劉美璐,3239,1
+S18,Kwai Shing West Estate,葵盛西邨,2,LEUNG YUK FUNG,梁玉鳳,1379,0
+S19,On Ho,安灝,1,TAM WAI CHUN,譚惠珍,2536,1
+S19,On Ho,安灝,2,HO CHI WAI,何志偉,1395,0
+S20,Wai Ying,偉盈,1,KOO MAN HON,古文翰,1242,0
+S20,Wai Ying,偉盈,2,MAK MEI KUEN ALICE,麥美娟,2404,1
+S21,Tsing Yi Estate,青衣邨,1,CHAN SIU MAN SIMON,陳笑文,2594,1
+S21,Tsing Yi Estate,青衣邨,2,POON CHI NAM,潘志南,1398,0
+S22,Greenfield,翠怡,1,WONG SUET YING,王雪盈,1650,0
+S22,Greenfield,翠怡,2,CHEUNG WAI CHING CLARICE,張慧晶,2548,1
+S23,Cheung Ching,長青,1,TING YIN WAH,丁衍華,1450,0
+S23,Cheung Ching,長青,2,LEE CHI KEUNG ALAN,李志強,2616,1
+S24,Cheung Hong,長康,1,TSUI HIU KIT,徐曉杰,3782,1
+S24,Cheung Hong,長康,2,LI MAY YING,李美英,611,0
+S25,Shing Hong,盛康,1,TSOI YU LUNG,蔡雨龍,814,0
+S25,Shing Hong,盛康,2,LEUNG WAI MAN,梁偉文,2405,1
+S26,Tsing Yi South,青衣南,,POON CHI SHING,潘志成,0,2
+S27,Cheung Hang,長亨,1,LAM LAP CHI,林立志,1828,1
+S27,Cheung Hang,長亨,2,LAU PO KWAN,劉寶坤,97,0
+S27,Cheung Hang,長亨,3,HA LUNG WAN,夏龍雲,308,0
+S27,Cheung Hang,長亨,4,LUI KO WAI,雷可畏,1569,0
+S28,Ching Fat,青發,1,CHAN YUE MAN,陳裕民,391,0
+S28,Ching Fat,青發,2,POON SIU PING NANCY,潘小屏,2101,1
+S28,Ching Fat,青發,3,LAU CHI KIT,劉子傑,1817,0
+S29,Cheung On,長安,,LAW KING SHING,羅競成,0,2
+T01,Lantau,大嶼山,1,WONG FUK KAN,黃福根,2526,1
+T01,Lantau,大嶼山,2,MA SUET FAN,馬雪芬,756,0
+T02,Yat Tung Estate North,逸東邨北,1,TANG KA PIU,鄧家彪,2691,1
+T02,Yat Tung Estate North,逸東邨北,2,KWOK PING,郭平,1693,0
+T03,Yat Tung Estate South,逸東邨南,1,LO KWONG SHING ANDY,老廣成,2192,1
+T03,Yat Tung Estate South,逸東邨南,2,TSUI CHING KUEN,徐正權,818,0
+T04,Tung Chung North,東涌北,1,LAM YUET,林悅,1509,1
+T04,Tung Chung North,東涌北,2,TAM MAN HO JEREMY JANSEN,譚文豪,1177,0
+T05,Tung Chung South,東涌南,1,CHAU CHUEN HEUNG,周轉香,2326,1
+T05,Tung Chung South,東涌南,2,CHENG LAI YEE,鄭麗兒,1029,0
+T06,Discovery Bay,愉景灣,1,YUNG WING SHEUNG AMY,容詠嫦,863,1
+T06,Discovery Bay,愉景灣,2,LAU CHING WAI PETER,劉靖瑋,708,0
+T07,Peng Chau & Hei Ling Chau,坪洲及喜靈洲,1,CHAN CHI LIN,陳智連,407,0
+T07,Peng Chau & Hei Ling Chau,坪洲及喜靈洲,2,ON HING YING,安慶英,1177,1
+T07,Peng Chau & Hei Ling Chau,坪洲及喜靈洲,3,MA CHUN TIM,馬鎮添,865,0
+T08,Lamma & Po Toi,南丫及蒲台,1,YU LAI FAN,余麗芬,858,1
+T08,Lamma & Po Toi,南丫及蒲台,2,WONG CHUN PONG,黃俊邦,391,0
+T08,Lamma & Po Toi,南丫及蒲台,3,LAU PAUL,劉保祿,92,0
+T09,Cheung Chau South,長洲南,1,LO WAN KAI RICO,盧雲佳,634,0
+T09,Cheung Chau South,長洲南,2,KWONG KOON WAN,鄺官穩,1320,1
+T09,Cheung Chau South,長洲南,3,SZE HOU MING STEPHEN,史鎬銘,34,0
+T09,Cheung Chau South,長洲南,4,KWONG SAI LOI ANIL,鄺世來,376,0
+T09,Cheung Chau South,長洲南,5,KWOK CHEUK KIN,郭卓堅,516,0
+T10,Cheung Chau North,長洲北,,LEE KWAI CHUN,李桂珍,0,2
